@@ -1,0 +1,17 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "/w gm  &{template:traits}{{description=A [[1t[npc-sex]]] stands before you. They [[1t[NPC-Appearence]]] and [[1t[NPC-mannerisms]]]. They are known for [[1t[NPC-talents]]]. They have high [[1t[NPC-abilities-high]]] and low [[1t[NPC-abilities-low]]].}}",
+                "istokenaction": false,
+                "name": "NPC-Generator",
+                "visibleto": "-LSRYUsv2Hecn8FQtXMT"
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        }
+    ]
+}
