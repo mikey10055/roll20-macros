@@ -36,6 +36,6 @@ FAQ: Check the [Help page](https://5etools.com/roll20.html) for some basic point
 - open the collections tab in the roll20 in game sidebar
 - scroll down to `Import Rollable Table`
 - click on `choose file` then select the macro json file you wish to import
-- then click `Import TableExport (Paste text)`.
+- then click `Import`.
 
 now the macros should appear in your macro list.
