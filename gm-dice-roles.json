@@ -1,0 +1,81 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "/w gm &{template:traits}{{name=Dice Roll(D4)}}{{description=[[1d4]]  |  [[1d4]]}}",
+                "istokenaction": false,
+                "name": "D4",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:traits}{{name=Dice Roll(D6)}}{{description=[[d6]]  |  [[d6]]}}",
+                "istokenaction": false,
+                "name": "D6",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:traits}{{name=Dice Roll(D8)}}{{description=[[d8]]  |  [[d8]]}}",
+                "istokenaction": false,
+                "name": "D8",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:traits}{{name=Dice Roll(D10)}}{{description=[[d10]]  |  [[d10]]}}",
+                "istokenaction": false,
+                "name": "D10",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:traits}{{name=Dice Roll(D12)}}{{description=[[d12]]  |   [[D12]]}}",
+                "istokenaction": false,
+                "name": "D12",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:traits}{{name=Dice Roll(D20)}}{{description=[[d20]]  |  [[d20]]}}",
+                "istokenaction": false,
+                "name": "D20",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:traits}{{name=Dice Roller}}{{description=[D4](!\n#D4) [D6](!\n#D6) [D8](!\n#D8) [D10](!\n#D10) [D12](!\n#D12) [D20](!\n#D20)[D100](!\n#D100) [??](!\n#D??) }}",
+                "istokenaction": false,
+                "name": "Dice-Roller",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:traits}{{name=Dice Query?}}{{description=[[?{How Many Dice?}d?{What Dice?| D4,4| D6,6| D8,8| D10,10| D12,12| D20,20| D100,100| Other,?{Dice size?}}]] }}",
+                "istokenaction": false,
+                "name": "D??",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm &{template:traits}{{name=Dice Roll(D100)}}{{description=[[d100]]  |  [[d100]]}}",
+                "istokenaction": false,
+                "name": "D100",
+                "visibleto": ""
+            }
+        }
+    ]
+}
