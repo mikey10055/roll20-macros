@@ -1,0 +1,87 @@
+{
+    "name": "NPC-talents",
+    "showplayers": true,
+    "id": "-LSvG3tonnxH9f-cKWyE",
+    "items": {
+        "-LSvGA6Btdf_ioa-KKmu": {
+            "id": "-LSvGA6Btdf_ioa-KKmu",
+            "name": "playing a musical instrument"
+        },
+        "-LSvGCdxbI5lMP4SPt3y": {
+            "id": "-LSvGCdxbI5lMP4SPt3y",
+            "name": "being multi-lingual"
+        },
+        "-LSvGEs3bYT8G19e0Tx-": {
+            "id": "-LSvGEs3bYT8G19e0Tx-",
+            "name": "being unbelievably lucky"
+        },
+        "-LSvGNXA92rPtCkN6dcy": {
+            "id": "-LSvGNXA92rPtCkN6dcy",
+            "name": "having a perfect memory"
+        },
+        "-LSvGPoqAT60ZzWah2-W": {
+            "id": "-LSvGPoqAT60ZzWah2-W",
+            "name": "being great with animals"
+        },
+        "-LSvGSXSZSgl-MX_C_hT": {
+            "id": "-LSvGSXSZSgl-MX_C_hT",
+            "name": "being great with children"
+        },
+        "-LSvGU9maXQKriSM0FJs": {
+            "id": "-LSvGU9maXQKriSM0FJs",
+            "name": "being great with puzzles"
+        },
+        "-LSvGVamKgEGLt3DFYW3": {
+            "id": "-LSvGVamKgEGLt3DFYW3",
+            "name": "being great at a game"
+        },
+        "-LSvGZoQbytB5b2QKWkr": {
+            "id": "-LSvGZoQbytB5b2QKWkr",
+            "name": "being great at impersonations"
+        },
+        "-LSvGb2kuJ6xgGrGak7O": {
+            "id": "-LSvGb2kuJ6xgGrGak7O",
+            "name": "drawing beautifully"
+        },
+        "-LSvGeUEBahIXZlXvxrZ": {
+            "id": "-LSvGeUEBahIXZlXvxrZ",
+            "name": "painting beautifully"
+        },
+        "-LSvGgqR6Og_L38ThrFA": {
+            "id": "-LSvGgqR6Og_L38ThrFA",
+            "name": "Singing Beautifully"
+        },
+        "-LSvGj-I8Y3Wumhn-l22": {
+            "id": "-LSvGj-I8Y3Wumhn-l22",
+            "name": "drinking everyone under the table"
+        },
+        "-LSvGlZTnFzdlSsquJ50": {
+            "id": "-LSvGlZTnFzdlSsquJ50",
+            "name": "being an expert carpenter"
+        },
+        "-LSvGnQ6eI8byNewk57N": {
+            "id": "-LSvGnQ6eI8byNewk57N",
+            "name": "being an expert cook"
+        },
+        "-LSvGp9UuW9G9iS8LhE0": {
+            "id": "-LSvGp9UuW9G9iS8LhE0",
+            "name": "being an expert dart thrower and/or rock skipper"
+        },
+        "-LSvGtVlxOerbe0BwjNO": {
+            "id": "-LSvGtVlxOerbe0BwjNO",
+            "name": "being an expert juggler"
+        },
+        "-LSvGvZUfR4Mi942-NBg": {
+            "id": "-LSvGvZUfR4Mi942-NBg",
+            "name": "being a skilled actor and master of disguise"
+        },
+        "-LSvGyefdaOXKTvA29-y": {
+            "id": "-LSvGyefdaOXKTvA29-y",
+            "name": "being a skilled dancer"
+        },
+        "-LSvH-ml0QuhTCOzdfWa": {
+            "id": "-LSvH-ml0QuhTCOzdfWa",
+            "name": "knowing theives' cant"
+        }
+    }
+}

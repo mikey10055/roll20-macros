@@ -1,0 +1,442 @@
+{
+    "name": "Magic-Item-Table-G",
+    "showplayers": false,
+    "id": "-LT3pkeXQi4ZtKT33fTM",
+    "items": {
+        "-LT3pkeYQ7XQkd1GUAon": {
+            "id": "-LT3pkeYQ7XQkd1GUAon",
+            "name": "Weapon, +2 (R)",
+            "weight": "11"
+        },
+        "-LT3pkeYQ7XQkd1GUAoo": {
+            "id": "-LT3pkeYQ7XQkd1GUAoo",
+            "name": "Figurine of wondrous power (Roll a d8: 1 - bronze griffon, 2 - ebony fly, 3 - golden lions, 4 - ivory goats, 5 - marble elephant, 6-7 - onyx dog, 8 - serpentine owl) (R)",
+            "weight": "3"
+        },
+        "-LT3pkeYQ7XQkd1GUAop": {
+            "id": "-LT3pkeYQ7XQkd1GUAop",
+            "name": "Adamantine armor (breastplate) (U)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAoq": {
+            "id": "-LT3pkeYQ7XQkd1GUAoq",
+            "name": "Adamantine armor (splint) (U)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAor": {
+            "id": "-LT3pkeYQ7XQkd1GUAor",
+            "name": "Amulet of health (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAos": {
+            "id": "-LT3pkeYQ7XQkd1GUAos",
+            "name": "Armor of vulnerability (Roll a d6: 1-2-bludgeoning, 3-4-piercing, 5-6-slashing) (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAot": {
+            "id": "-LT3pkeYQ7XQkd1GUAot",
+            "name": "Arrow-catching shield (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAou": {
+            "id": "-LT3pkeYQ7XQkd1GUAou",
+            "name": "Belt of dwarvenkind (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAov": {
+            "id": "-LT3pkeYQ7XQkd1GUAov",
+            "name": "Belt of hill giant strength (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAow": {
+            "id": "-LT3pkeYQ7XQkd1GUAow",
+            "name": "Berserker axe (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAox": {
+            "id": "-LT3pkeYQ7XQkd1GUAox",
+            "name": "Boots of levitation (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAoy": {
+            "id": "-LT3pkeYQ7XQkd1GUAoy",
+            "name": "Boots of speed",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAoz": {
+            "id": "-LT3pkeYQ7XQkd1GUAoz",
+            "name": "Bowl of commanding water elementals (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAp-": {
+            "id": "-LT3pkeYQ7XQkd1GUAp-",
+            "name": "Bracers of defense (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAp0": {
+            "id": "-LT3pkeYQ7XQkd1GUAp0",
+            "name": "Brazier of commanding fire elementals (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAp1": {
+            "id": "-LT3pkeYQ7XQkd1GUAp1",
+            "name": "Cape of the mountebank (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAp2": {
+            "id": "-LT3pkeYQ7XQkd1GUAp2",
+            "name": "Censer of controlling air elementals (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAp3": {
+            "id": "-LT3pkeYQ7XQkd1GUAp3",
+            "name": "Armor, +1 chain mail (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAp4": {
+            "id": "-LT3pkeYQ7XQkd1GUAp4",
+            "name": "Armor of resistance (chain mail) (Roll a d4 to determine type: 1-acid, 2-cold, 3-fire, 4-force) (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAp5": {
+            "id": "-LT3pkeYQ7XQkd1GUAp5",
+            "name": "Armor, +1 chain shirt (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAp6": {
+            "id": "-LT3pkeYQ7XQkd1GUAp6",
+            "name": "Armor of resistance (chain shirt) (Roll a d4 to determine type: 1-acid, 2-cold, 3-fire, 4-force) (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAp7": {
+            "id": "-LT3pkeYQ7XQkd1GUAp7",
+            "name": "Cloak of displacement (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAp8": {
+            "id": "-LT3pkeYQ7XQkd1GUAp8",
+            "name": "Cloak of the bat (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAp9": {
+            "id": "-LT3pkeYQ7XQkd1GUAp9",
+            "name": "Cube of force (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApA": {
+            "id": "-LT3pkeYQ7XQkd1GUApA",
+            "name": "Daern's instant fortress (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApB": {
+            "id": "-LT3pkeYQ7XQkd1GUApB",
+            "name": "Dagger of venom (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApC": {
+            "id": "-LT3pkeYQ7XQkd1GUApC",
+            "name": "Dimensional shackles (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApD": {
+            "id": "-LT3pkeYQ7XQkd1GUApD",
+            "name": "Dragon slayer (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApE": {
+            "id": "-LT3pkeYQ7XQkd1GUApE",
+            "name": "Elven chain (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApF": {
+            "id": "-LT3pkeYQ7XQkd1GUApF",
+            "name": "Flame tongue (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApG": {
+            "id": "-LT3pkeYQ7XQkd1GUApG",
+            "name": "Gem of seeing (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApH": {
+            "id": "-LT3pkeYQ7XQkd1GUApH",
+            "name": "Giant slayer (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApI": {
+            "id": "-LT3pkeYQ7XQkd1GUApI",
+            "name": "Glamoured studded leather (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApJ": {
+            "id": "-LT3pkeYQ7XQkd1GUApJ",
+            "name": "Helm of teleportation (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApK": {
+            "id": "-LT3pkeYQ7XQkd1GUApK",
+            "name": "Horn of blasting (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApL": {
+            "id": "-LT3pkeYQ7XQkd1GUApL",
+            "name": "Horn of Valhalla (Roll a d4: 1-2-silver, 3-4brass) (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApM": {
+            "id": "-LT3pkeYQ7XQkd1GUApM",
+            "name": "Instrument of the bards (Canaith mandolin) (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApN": {
+            "id": "-LT3pkeYQ7XQkd1GUApN",
+            "name": "Instrument of the bards (Cli lyre) (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApO": {
+            "id": "-LT3pkeYQ7XQkd1GUApO",
+            "name": "Ioun stone of awareness (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApP": {
+            "id": "-LT3pkeYQ7XQkd1GUApP",
+            "name": "Ioun stone of protection (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApQ": {
+            "id": "-LT3pkeYQ7XQkd1GUApQ",
+            "name": "Ioun stone of reserve (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApR": {
+            "id": "-LT3pkeYQ7XQkd1GUApR",
+            "name": "Ioun stone of sustenance (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApS": {
+            "id": "-LT3pkeYQ7XQkd1GUApS",
+            "name": "Iron bands of Bilarro (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApT": {
+            "id": "-LT3pkeYQ7XQkd1GUApT",
+            "name": "Armor, +1 leather (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApU": {
+            "id": "-LT3pkeYQ7XQkd1GUApU",
+            "name": "Armor of resistance (leather) (Roll a d4 to determine type: 1-acid, 2-cold, 3-fire, 4-force) (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApV": {
+            "id": "-LT3pkeYQ7XQkd1GUApV",
+            "name": "Mace of disruption (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApW": {
+            "id": "-LT3pkeYQ7XQkd1GUApW",
+            "name": "Mace of smiting (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApX": {
+            "id": "-LT3pkeYQ7XQkd1GUApX",
+            "name": "Mace of terror (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApY": {
+            "id": "-LT3pkeYQ7XQkd1GUApY",
+            "name": "Mantle of spell resistance (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApZ": {
+            "id": "-LT3pkeYQ7XQkd1GUApZ",
+            "name": "Necklace of prayer beads (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApa": {
+            "id": "-LT3pkeYQ7XQkd1GUApa",
+            "name": "Ring of animal influence (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApb": {
+            "id": "-LT3pkeYQ7XQkd1GUApb",
+            "name": "Ring of evasion (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApc": {
+            "id": "-LT3pkeYQ7XQkd1GUApc",
+            "name": "Ring of feather falling (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApd": {
+            "id": "-LT3pkeYQ7XQkd1GUApd",
+            "name": "Ring of free action (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApe": {
+            "id": "-LT3pkeYQ7XQkd1GUApe",
+            "name": "Ring of protection (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApf": {
+            "id": "-LT3pkeYQ7XQkd1GUApf",
+            "name": "Ring of resistance (Roll a d10: 1-acid, 2-cold, 3-fire, 4-force, 5-lightning, 6-necrotic, 7-poison, 8-psychic, 9-radiant, 10-thunder) (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApg": {
+            "id": "-LT3pkeYQ7XQkd1GUApg",
+            "name": "Ring of spell storing (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAph": {
+            "id": "-LT3pkeYQ7XQkd1GUAph",
+            "name": "Ring of the ram (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApi": {
+            "id": "-LT3pkeYQ7XQkd1GUApi",
+            "name": "Ring of X-ray vision (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApj": {
+            "id": "-LT3pkeYQ7XQkd1GUApj",
+            "name": "Robe of eyes (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApk": {
+            "id": "-LT3pkeYQ7XQkd1GUApk",
+            "name": "Rod of rulership (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApl": {
+            "id": "-LT3pkeYQ7XQkd1GUApl",
+            "name": "Rod of the pact keeper, +2 (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApm": {
+            "id": "-LT3pkeYQ7XQkd1GUApm",
+            "name": "Rope of entanglement (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApn": {
+            "id": "-LT3pkeYQ7XQkd1GUApn",
+            "name": "Armor, +1 scale mail (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApo": {
+            "id": "-LT3pkeYQ7XQkd1GUApo",
+            "name": "Armor of resistance (scale mail) (Roll a d4 to determine type: 1-acid, 2-cold, 3-fire, 4-force) (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApp": {
+            "id": "-LT3pkeYQ7XQkd1GUApp",
+            "name": "Shield, +2 (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApq": {
+            "id": "-LT3pkeYQ7XQkd1GUApq",
+            "name": "Shield of missile attraction (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApr": {
+            "id": "-LT3pkeYQ7XQkd1GUApr",
+            "name": "Staff of charming (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAps": {
+            "id": "-LT3pkeYQ7XQkd1GUAps",
+            "name": "Staff of healing (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApt": {
+            "id": "-LT3pkeYQ7XQkd1GUApt",
+            "name": "Staff of swarming insects (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApu": {
+            "id": "-LT3pkeYQ7XQkd1GUApu",
+            "name": "Staff of the woodlands (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApv": {
+            "id": "-LT3pkeYQ7XQkd1GUApv",
+            "name": "Staff of withering (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApw": {
+            "id": "-LT3pkeYQ7XQkd1GUApw",
+            "name": "Stone of controlling earth elementals (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApx": {
+            "id": "-LT3pkeYQ7XQkd1GUApx",
+            "name": "Sun blade (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApy": {
+            "id": "-LT3pkeYQ7XQkd1GUApy",
+            "name": "Sword of life stealing (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUApz": {
+            "id": "-LT3pkeYQ7XQkd1GUApz",
+            "name": "Sword of wounding (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAq-": {
+            "id": "-LT3pkeYQ7XQkd1GUAq-",
+            "name": "Tentacle rod (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAq0": {
+            "id": "-LT3pkeYQ7XQkd1GUAq0",
+            "name": "Vicious weapon (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAq1": {
+            "id": "-LT3pkeYQ7XQkd1GUAq1",
+            "name": "Wand of binding (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAq2": {
+            "id": "-LT3pkeYQ7XQkd1GUAq2",
+            "name": "Wand of enemy detection (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAq3": {
+            "id": "-LT3pkeYQ7XQkd1GUAq3",
+            "name": "Wand of fear (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAq4": {
+            "id": "-LT3pkeYQ7XQkd1GUAq4",
+            "name": "Wand of fireballs (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAq5": {
+            "id": "-LT3pkeYQ7XQkd1GUAq5",
+            "name": "Wand of lightning bolts (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAq6": {
+            "id": "-LT3pkeYQ7XQkd1GUAq6",
+            "name": "Wand of paralysis (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAq7": {
+            "id": "-LT3pkeYQ7XQkd1GUAq7",
+            "name": "Wand of the war mage, +2 (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAq8": {
+            "id": "-LT3pkeYQ7XQkd1GUAq8",
+            "name": "Wand of wonder (R)",
+            "weight": "1"
+        },
+        "-LT3pkeYQ7XQkd1GUAq9": {
+            "id": "-LT3pkeYQ7XQkd1GUAq9",
+            "name": "Wings of flying (R)",
+            "weight": "1"
+        }
+    }
+}

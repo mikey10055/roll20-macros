@@ -1,0 +1,142 @@
+{
+    "name": "Magic-Item-Table-C",
+    "showplayers": false,
+    "id": "-LT3pkdcSUW-FERuZ5Jo",
+    "items": {
+        "-LT3pkddr1fqtowVmZWU": {
+            "id": "-LT3pkddr1fqtowVmZWU",
+            "name": "Potion of Health, Superior",
+            "weight": "15"
+        },
+        "-LT3pkddr1fqtowVmZWV": {
+            "id": "-LT3pkddr1fqtowVmZWV",
+            "name": "Spell Scroll (4th Level)",
+            "weight": "7"
+        },
+        "-LT3pkddr1fqtowVmZWW": {
+            "id": "-LT3pkddr1fqtowVmZWW",
+            "name": "Ammunition +2",
+            "weight": "5"
+        },
+        "-LT3pkddr1fqtowVmZWX": {
+            "id": "-LT3pkddr1fqtowVmZWX",
+            "name": "Potion of Clairvoyance",
+            "weight": "5"
+        },
+        "-LT3pkddr1fqtowVmZWY": {
+            "id": "-LT3pkddr1fqtowVmZWY",
+            "name": "Potion of Diminution",
+            "weight": "5"
+        },
+        "-LT3pkddr1fqtowVmZWZ": {
+            "id": "-LT3pkddr1fqtowVmZWZ",
+            "name": "Potion of Gaseous Form",
+            "weight": "5"
+        },
+        "-LT3pkddr1fqtowVmZWa": {
+            "id": "-LT3pkddr1fqtowVmZWa",
+            "name": "Potion of Stone Giant Strength",
+            "weight": "5"
+        },
+        "-LT3pkddr1fqtowVmZWb": {
+            "id": "-LT3pkddr1fqtowVmZWb",
+            "name": "Potion of Heroism",
+            "weight": "5"
+        },
+        "-LT3pkddr1fqtowVmZWc": {
+            "id": "-LT3pkddr1fqtowVmZWc",
+            "name": "Potion of Invulnerability",
+            "weight": "5"
+        },
+        "-LT3pkddr1fqtowVmZWd": {
+            "id": "-LT3pkddr1fqtowVmZWd",
+            "name": "Potion of Mind Reading",
+            "weight": "5"
+        },
+        "-LT3pkddr1fqtowVmZWe": {
+            "id": "-LT3pkddr1fqtowVmZWe",
+            "name": "Spell Scroll (5th Level)",
+            "weight": "5"
+        },
+        "-LT3pkddr1fqtowVmZWf": {
+            "id": "-LT3pkddr1fqtowVmZWf",
+            "name": "Elixir of Health",
+            "weight": "3"
+        },
+        "-LT3pkddr1fqtowVmZWg": {
+            "id": "-LT3pkddr1fqtowVmZWg",
+            "name": "Oil of Etherealness",
+            "weight": "3"
+        },
+        "-LT3pkddr1fqtowVmZWh": {
+            "id": "-LT3pkddr1fqtowVmZWh",
+            "name": "Potion of Fire Giant Strength",
+            "weight": "3"
+        },
+        "-LT3pkddr1fqtowVmZWi": {
+            "id": "-LT3pkddr1fqtowVmZWi",
+            "name": "Quaal's Feather Token",
+            "weight": "3"
+        },
+        "-LT3pkddr1fqtowVmZWj": {
+            "id": "-LT3pkddr1fqtowVmZWj",
+            "name": "Scroll of Protection",
+            "weight": "3"
+        },
+        "-LT3pkddr1fqtowVmZWk": {
+            "id": "-LT3pkddr1fqtowVmZWk",
+            "name": "Bag of Beans",
+            "weight": "2"
+        },
+        "-LT3pkddr1fqtowVmZWl": {
+            "id": "-LT3pkddr1fqtowVmZWl",
+            "name": "Bead of Force",
+            "weight": "2"
+        },
+        "-LT3pkddr1fqtowVmZWm": {
+            "id": "-LT3pkddr1fqtowVmZWm",
+            "name": "Chime of Opening",
+            "weight": "1"
+        },
+        "-LT3pkddr1fqtowVmZWn": {
+            "id": "-LT3pkddr1fqtowVmZWn",
+            "name": "Decanter of Endless Water",
+            "weight": "1"
+        },
+        "-LT3pkddr1fqtowVmZWo": {
+            "id": "-LT3pkddr1fqtowVmZWo",
+            "name": "Eyes of Minute Seeing",
+            "weight": "1"
+        },
+        "-LT3pkddr1fqtowVmZWp": {
+            "id": "-LT3pkddr1fqtowVmZWp",
+            "name": "Folding Boat",
+            "weight": "1"
+        },
+        "-LT3pkddr1fqtowVmZWq": {
+            "id": "-LT3pkddr1fqtowVmZWq",
+            "name": "Heward's Handy Haversack",
+            "weight": "1"
+        },
+        "-LT3pkddr1fqtowVmZWr": {
+            "id": "-LT3pkddr1fqtowVmZWr",
+            "name": "Horseshoes of Speed",
+            "weight": "1"
+        },
+        "-LT3pkddr1fqtowVmZWs": {
+            "id": "-LT3pkddr1fqtowVmZWs",
+            "name": "Necklace of Fireballs",
+            "weight": "1"
+        },
+        "-LT3pkddr1fqtowVmZWt": {
+            "id": "-LT3pkddr1fqtowVmZWt",
+            "name": "Periapt of Health",
+            "weight": "1"
+        },
+        "-LT3pkddr1fqtowVmZWu": {
+            "id": "-LT3pkddr1fqtowVmZWu",
+            "name": "Sending Stones",
+            "weight": "1"
+        }
+    }
+}

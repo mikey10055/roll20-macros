@@ -1,0 +1,312 @@
+{
+    "name": "Magic-Item-Table-H",
+    "showplayers": false,
+    "id": "-LT3pkfECacfOjLWX6Q4",
+    "items": {
+        "-LT3pkfGmhEX4bhQUIIi": {
+            "id": "-LT3pkfGmhEX4bhQUIIi",
+            "name": "Weapon +3",
+            "weight": "10"
+        },
+        "-LT3pkfGmhEX4bhQUIIj": {
+            "id": "-LT3pkfGmhEX4bhQUIIj",
+            "name": "Amulet of the Planes",
+            "weight": "2"
+        },
+        "-LT3pkfGmhEX4bhQUIIk": {
+            "id": "-LT3pkfGmhEX4bhQUIIk",
+            "name": "Carpet of Flying",
+            "weight": "2"
+        },
+        "-LT3pkfGmhEX4bhQUIIl": {
+            "id": "-LT3pkfGmhEX4bhQUIIl",
+            "name": "Crystal Ball (Very Rare Version)",
+            "weight": "2"
+        },
+        "-LT3pkfGmhEX4bhQUIIm": {
+            "id": "-LT3pkfGmhEX4bhQUIIm",
+            "name": "Ring of Regeneration",
+            "weight": "2"
+        },
+        "-LT3pkfGmhEX4bhQUIIn": {
+            "id": "-LT3pkfGmhEX4bhQUIIn",
+            "name": "Ring of Shooting Stars",
+            "weight": "2"
+        },
+        "-LT3pkfGmhEX4bhQUIIo": {
+            "id": "-LT3pkfGmhEX4bhQUIIo",
+            "name": "Ring of Telekinesis",
+            "weight": "2"
+        },
+        "-LT3pkfGmhEX4bhQUIIp": {
+            "id": "-LT3pkfGmhEX4bhQUIIp",
+            "name": "Robe of Scintillating Colors",
+            "weight": "2"
+        },
+        "-LT3pkfGmhEX4bhQUIIq": {
+            "id": "-LT3pkfGmhEX4bhQUIIq",
+            "name": "Robe of Stars",
+            "weight": "2"
+        },
+        "-LT3pkfGmhEX4bhQUIIr": {
+            "id": "-LT3pkfGmhEX4bhQUIIr",
+            "name": "Rod of Absorption",
+            "weight": "2"
+        },
+        "-LT3pkfGmhEX4bhQUIIs": {
+            "id": "-LT3pkfGmhEX4bhQUIIs",
+            "name": "Rod of Alertness",
+            "weight": "2"
+        },
+        "-LT3pkfGmhEX4bhQUIIt": {
+            "id": "-LT3pkfGmhEX4bhQUIIt",
+            "name": "Rod of Security",
+            "weight": "2"
+        },
+        "-LT3pkfGmhEX4bhQUIIu": {
+            "id": "-LT3pkfGmhEX4bhQUIIu",
+            "name": "Rod of the Pact Keeper +3",
+            "weight": "1"
+        },
+        "-LT3pkfGmhEX4bhQUIIv": {
+            "id": "-LT3pkfGmhEX4bhQUIIv",
+            "name": "Scimitar of Speed",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xry": {
+            "id": "-LT3pkfHOnGVkYb62xry",
+            "name": "Shield +3",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xrz": {
+            "id": "-LT3pkfHOnGVkYb62xrz",
+            "name": "Staff of Fire",
+            "weight": "2"
+        },
+        "-LT3pkfHOnGVkYb62xs-": {
+            "id": "-LT3pkfHOnGVkYb62xs-",
+            "name": "Staff of Frost",
+            "weight": "2"
+        },
+        "-LT3pkfHOnGVkYb62xs0": {
+            "id": "-LT3pkfHOnGVkYb62xs0",
+            "name": "Staff of Power",
+            "weight": "2"
+        },
+        "-LT3pkfHOnGVkYb62xs1": {
+            "id": "-LT3pkfHOnGVkYb62xs1",
+            "name": "Staff of Striking",
+            "weight": "2"
+        },
+        "-LT3pkfHOnGVkYb62xs2": {
+            "id": "-LT3pkfHOnGVkYb62xs2",
+            "name": "Staff of Thunder and Lightning",
+            "weight": "2"
+        },
+        "-LT3pkfHOnGVkYb62xs3": {
+            "id": "-LT3pkfHOnGVkYb62xs3",
+            "name": "Sword of Sharpness",
+            "weight": "2"
+        },
+        "-LT3pkfHOnGVkYb62xs4": {
+            "id": "-LT3pkfHOnGVkYb62xs4",
+            "name": "Wand of Polymorph",
+            "weight": "2"
+        },
+        "-LT3pkfHOnGVkYb62xs5": {
+            "id": "-LT3pkfHOnGVkYb62xs5",
+            "name": "Wand of he War Mage +3",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xs6": {
+            "id": "-LT3pkfHOnGVkYb62xs6",
+            "name": "Adamantine Armor (Half Plate)",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xs7": {
+            "id": "-LT3pkfHOnGVkYb62xs7",
+            "name": "Adamantine (Plate)",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xs8": {
+            "id": "-LT3pkfHOnGVkYb62xs8",
+            "name": "Animated Shield",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xs9": {
+            "id": "-LT3pkfHOnGVkYb62xs9",
+            "name": "Belt of Fire Giant Strength",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsA": {
+            "id": "-LT3pkfHOnGVkYb62xsA",
+            "name": "Belt of Frost/Stone Giant Strength",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsB": {
+            "id": "-LT3pkfHOnGVkYb62xsB",
+            "name": "Armor +1 Breastplate",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsC": {
+            "id": "-LT3pkfHOnGVkYb62xsC",
+            "name": "Candle of Invocation",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsD": {
+            "id": "-LT3pkfHOnGVkYb62xsD",
+            "name": "Armor, +2 Chain Mail",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsE": {
+            "id": "-LT3pkfHOnGVkYb62xsE",
+            "name": "Armor, +2 Chain Shirt",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsF": {
+            "id": "-LT3pkfHOnGVkYb62xsF",
+            "name": "Cloak of Arachnida",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsG": {
+            "id": "-LT3pkfHOnGVkYb62xsG",
+            "name": "Dancing Sword",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsH": {
+            "id": "-LT3pkfHOnGVkYb62xsH",
+            "name": "Demon Armor",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsI": {
+            "id": "-LT3pkfHOnGVkYb62xsI",
+            "name": "Dragonscale Armor",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsJ": {
+            "id": "-LT3pkfHOnGVkYb62xsJ",
+            "name": "Dwarven Plate",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsK": {
+            "id": "-LT3pkfHOnGVkYb62xsK",
+            "name": "Dwarven Thrower",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsL": {
+            "id": "-LT3pkfHOnGVkYb62xsL",
+            "name": "Efreeti Bottle",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsM": {
+            "id": "-LT3pkfHOnGVkYb62xsM",
+            "name": "Figurine of Wondrous Power",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsN": {
+            "id": "-LT3pkfHOnGVkYb62xsN",
+            "name": "Frost Brand",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsO": {
+            "id": "-LT3pkfHOnGVkYb62xsO",
+            "name": "Helm of Brilliance",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsP": {
+            "id": "-LT3pkfHOnGVkYb62xsP",
+            "name": "Horn of Valhalla (Bronze)",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsQ": {
+            "id": "-LT3pkfHOnGVkYb62xsQ",
+            "name": "Instrument of the Bard (Anstruth Harp)",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsR": {
+            "id": "-LT3pkfHOnGVkYb62xsR",
+            "name": "Ioun Stone <%%91%%>Roll on the IounStone table<%%93%%>",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsS": {
+            "id": "-LT3pkfHOnGVkYb62xsS",
+            "name": "Armor +2, Leather",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsT": {
+            "id": "-LT3pkfHOnGVkYb62xsT",
+            "name": "Manual of Bodily Health",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsU": {
+            "id": "-LT3pkfHOnGVkYb62xsU",
+            "name": "Manual of Gainful Exercise",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsV": {
+            "id": "-LT3pkfHOnGVkYb62xsV",
+            "name": "Manual of Golems",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsW": {
+            "id": "-LT3pkfHOnGVkYb62xsW",
+            "name": "Manual of Quickness in Action",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsX": {
+            "id": "-LT3pkfHOnGVkYb62xsX",
+            "name": "Mirror of Life Stealing",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsY": {
+            "id": "-LT3pkfHOnGVkYb62xsY",
+            "name": "Nine Lives Stealer",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsZ": {
+            "id": "-LT3pkfHOnGVkYb62xsZ",
+            "name": "Oathbow",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsa": {
+            "id": "-LT3pkfHOnGVkYb62xsa",
+            "name": "Spellguard Shield",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsb": {
+            "id": "-LT3pkfHOnGVkYb62xsb",
+            "name": "Armor +1, Splint",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsc": {
+            "id": "-LT3pkfHOnGVkYb62xsc",
+            "name": "Armor of Resistance (Splint)",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsd": {
+            "id": "-LT3pkfHOnGVkYb62xsd",
+            "name": "Armor +1, Studded Leather",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xse": {
+            "id": "-LT3pkfHOnGVkYb62xse",
+            "name": "Armor of Resistance (Studded Leather)",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsf": {
+            "id": "-LT3pkfHOnGVkYb62xsf",
+            "name": "Tome of Clear Thought",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsg": {
+            "id": "-LT3pkfHOnGVkYb62xsg",
+            "name": "Tome of Leadership and Influence",
+            "weight": "1"
+        },
+        "-LT3pkfHOnGVkYb62xsh": {
+            "id": "-LT3pkfHOnGVkYb62xsh",
+            "name": "Tome of Understanding",
+            "weight": "1"
+        }
+    }
+}
