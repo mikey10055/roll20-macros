@@ -1,0 +1,82 @@
+{
+    "name": "Magic-Item-Table-D",
+    "showplayers": false,
+    "id": "-LT3pkdqlZTykR440cux",
+    "items": {
+        "-LT3pkdrbN0WYC3E2pYV": {
+            "id": "-LT3pkdrbN0WYC3E2pYV",
+            "name": "Potion of Health, Supreme",
+            "weight": "20"
+        },
+        "-LT3pkdrbN0WYC3E2pYW": {
+            "id": "-LT3pkdrbN0WYC3E2pYW",
+            "name": "Potion of Invisibility",
+            "weight": "10"
+        },
+        "-LT3pkdrbN0WYC3E2pYX": {
+            "id": "-LT3pkdrbN0WYC3E2pYX",
+            "name": "Potion of Speed Yellow fluid with dark, almost black swirls that ripple constantly through the fluid.",
+            "weight": "10"
+        },
+        "-LT3pkdrbN0WYC3E2pYY": {
+            "id": "-LT3pkdrbN0WYC3E2pYY",
+            "name": "Spell Scroll (6th Level)",
+            "weight": "10"
+        },
+        "-LT3pkdrbN0WYC3E2pYZ": {
+            "id": "-LT3pkdrbN0WYC3E2pYZ",
+            "name": "Spell Scroll (7th Level)",
+            "weight": "7"
+        },
+        "-LT3pkdrbN0WYC3E2pYa": {
+            "id": "-LT3pkdrbN0WYC3E2pYa",
+            "name": "Oil of Sharpness",
+            "weight": "5"
+        },
+        "-LT3pkdrbN0WYC3E2pYb": {
+            "id": "-LT3pkdrbN0WYC3E2pYb",
+            "name": "Potion of Flying a bottle of clear liquid, that with examination isn't full, but rather the liquid defies gravity, though at time cloudy white impurities float through the liquid",
+            "weight": "5"
+        },
+        "-LT3pkdrbN0WYC3E2pYc": {
+            "id": "-LT3pkdrbN0WYC3E2pYc",
+            "name": "Potion of Cloud Giant Strength Transparent liquid with a crescent sliver floating inside of it)",
+            "weight": "5"
+        },
+        "-LT3pkdrbN0WYC3E2pYd": {
+            "id": "-LT3pkdrbN0WYC3E2pYd",
+            "name": "Potion of Longevity Amber liquid with a sliver of bone, perhaps a tooth? a dead spider",
+            "weight": "5"
+        },
+        "-LT3pkdrbN0WYC3E2pYe": {
+            "id": "-LT3pkdrbN0WYC3E2pYe",
+            "name": "Potion of Vitality crimson liquid that regularly pulses, almost like a heartbeat",
+            "weight": "5"
+        },
+        "-LT3pkdrbN0WYC3E2pYf": {
+            "id": "-LT3pkdrbN0WYC3E2pYf",
+            "name": "Spell Scroll (8th Level)",
+            "weight": "5"
+        },
+        "-LT3pkdrbN0WYC3E2pYg": {
+            "id": "-LT3pkdrbN0WYC3E2pYg",
+            "name": "Horseshoes of a Zephyr",
+            "weight": "3"
+        },
+        "-LT3pkdrbN0WYC3E2pYh": {
+            "id": "-LT3pkdrbN0WYC3E2pYh",
+            "name": "Nolzur's Marvelous Pigments",
+            "weight": "2"
+        },
+        "-LT3pkdrbN0WYC3E2pYi": {
+            "id": "-LT3pkdrbN0WYC3E2pYi",
+            "name": "Bag of Devouring",
+            "weight": "1"
+        },
+        "-LT3pkdrbN0WYC3E2pYj": {
+            "id": "-LT3pkdrbN0WYC3E2pYj",
+            "name": "Portable Hole",
+            "weight": "1"
+        }
+    }
+}

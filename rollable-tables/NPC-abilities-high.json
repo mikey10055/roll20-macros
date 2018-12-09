@@ -1,0 +1,31 @@
+{
+    "name": "NPC-abilities-high",
+    "showplayers": false,
+    "id": "-LSvEztZ3aAiihk1I7AD",
+    "items": {
+        "-LSvF2ehPduWQpI95qJC": {
+            "id": "-LSvF2ehPduWQpI95qJC",
+            "name": "str - powerful, brawny"
+        },
+        "-LSvFATnqqQtXC8mHZST": {
+            "id": "-LSvFATnqqQtXC8mHZST",
+            "name": "Dex - lithe agile graceful"
+        },
+        "-LSvFDWQ0spYJ8Xks7AC": {
+            "id": "-LSvFDWQ0spYJ8Xks7AC",
+            "name": "con - hardy, healthy"
+        },
+        "-LSvFINIYGfXUiH3_AKc": {
+            "id": "-LSvFINIYGfXUiH3_AKc",
+            "name": "int - studious, learned, inquisitive"
+        },
+        "-LSvFMOuDJhtNnYcCriy": {
+            "id": "-LSvFMOuDJhtNnYcCriy",
+            "name": "wis - Perceptive, spiritual, insightful"
+        },
+        "-LSvFRuyJj_8XAI3xcCy": {
+            "id": "-LSvFRuyJj_8XAI3xcCy",
+            "name": "cha - Persuasive, forceful,. born leader"
+        }
+    }
+}

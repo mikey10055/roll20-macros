@@ -1,0 +1,88 @@
+/*  for gm-npc-genarator.json */
+{
+    "name": "NPC-Appearence",
+    "showplayers": false,
+    "id": "-LSvCeVprfADaeY-eP4k",
+    "items": {
+        "-LSvDk2Bvl4xWz8_yxYI": {
+            "id": "-LSvDk2Bvl4xWz8_yxYI",
+            "name": "have very distinctive jewelry."
+        },
+        "-LSvDyuuPTt4ADNzRRG_": {
+            "id": "-LSvDyuuPTt4ADNzRRG_",
+            "name": "have a number of piercings"
+        },
+        "-LSvE1Dn9PPP1AOtYnk4": {
+            "id": "-LSvE1Dn9PPP1AOtYnk4",
+            "name": "wear flamboyant clothes"
+        },
+        "-LSvE4euncNuTkpJNsP2": {
+            "id": "-LSvE4euncNuTkpJNsP2",
+            "name": "wear formal, clean clothes"
+        },
+        "-LSvE9xoxc7zpYOaLO8L": {
+            "id": "-LSvE9xoxc7zpYOaLO8L",
+            "name": "wear ragged, dirty clothes"
+        },
+        "-LSvEE3U4_cceK0PS7x3": {
+            "id": "-LSvEE3U4_cceK0PS7x3",
+            "name": "have pronounced Scarring"
+        },
+        "-LSvEGiJ6dobqiBs4LFh": {
+            "id": "-LSvEGiJ6dobqiBs4LFh",
+            "name": "have missing teeth"
+        },
+        "-LSvEJ44omBSzIs2oP3W": {
+            "id": "-LSvEJ44omBSzIs2oP3W",
+            "name": "have missing Fingers"
+        },
+        "-LSvENnIxwEcbeYHSWqS": {
+            "id": "-LSvENnIxwEcbeYHSWqS",
+            "name": "have an unusual eye colour, or different colours"
+        },
+        "-LSvERU5-w9GAJaee5Ab": {
+            "id": "-LSvERU5-w9GAJaee5Ab",
+            "name": "have tattoos visible."
+        },
+        "-LSvEXxjC26XFWOA5dTR": {
+            "id": "-LSvEXxjC26XFWOA5dTR",
+            "name": "have a visible birthmark"
+        },
+        "-LSvEZkEZYyVyDVvQgvJ": {
+            "id": "-LSvEZkEZYyVyDVvQgvJ",
+            "name": "a really unusual skin colour"
+        },
+        "-LSvEaf1oLoP0uqneN6n": {
+            "id": "-LSvEaf1oLoP0uqneN6n",
+            "name": "are completely bald"
+        },
+        "-LSvEc3HSjSEIyJhzBJ6": {
+            "id": "-LSvEc3HSjSEIyJhzBJ6",
+            "name": "have braided Hair and/or Beard"
+        },
+        "-LSvEf4v9jZiroH44DS7": {
+            "id": "-LSvEf4v9jZiroH44DS7",
+            "name": "have an unusual hair colour"
+        },
+        "-LSvEk4PKKK8L5VRfa28": {
+            "id": "-LSvEk4PKKK8L5VRfa28",
+            "name": "have a nervous eye twitch"
+        },
+        "-LSvEloMfehuskqZVONk": {
+            "id": "-LSvEloMfehuskqZVONk",
+            "name": "have a distinctive nose"
+        },
+        "-LSvEnsm_UKeJmo7k4BV": {
+            "id": "-LSvEnsm_UKeJmo7k4BV",
+            "name": "have a distinctive posture, e.g. crooked or hunched"
+        },
+        "-LSvEt7K0r6O55YN-Cu9": {
+            "id": "-LSvEt7K0r6O55YN-Cu9",
+            "name": "are exceptionally beautiful"
+        },
+        "-LSvEvPf4Lu1h735xzmu": {
+            "id": "-LSvEvPf4Lu1h735xzmu",
+            "name": "are exceptionally ugly"
+        }
+    }
+}

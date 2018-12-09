@@ -1,0 +1,182 @@
+{
+    "name": "Magic-Item-Table-B",
+    "showplayers": false,
+    "id": "-LT3pkdEnpNY4w8VgYFC",
+    "items": {
+        "-LT3pkdF5MfHLe16nHZ-": {
+            "id": "-LT3pkdF5MfHLe16nHZ-",
+            "name": "Goggles of the Night",
+            "weight": "1"
+        },
+        "-LT3pkdF5MfHLe16nHZ0": {
+            "id": "-LT3pkdF5MfHLe16nHZ0",
+            "name": "Helm of Comprehending Languages",
+            "weight": "1"
+        },
+        "-LT3pkdF5MfHLe16nHZ1": {
+            "id": "-LT3pkdF5MfHLe16nHZ1",
+            "name": "Immovable Rod",
+            "weight": "1"
+        },
+        "-LT3pkdF5MfHLe16nHZ2": {
+            "id": "-LT3pkdF5MfHLe16nHZ2",
+            "name": "Lantern of Revealing",
+            "weight": "1"
+        },
+        "-LT3pkdF5MfHLe16nHZ3": {
+            "id": "-LT3pkdF5MfHLe16nHZ3",
+            "name": "Mariner's Armor",
+            "weight": "1"
+        },
+        "-LT3pkdF5MfHLe16nHZ4": {
+            "id": "-LT3pkdF5MfHLe16nHZ4",
+            "name": "Mithral Armor",
+            "weight": "1"
+        },
+        "-LT3pkdF5MfHLe16nHZ5": {
+            "id": "-LT3pkdF5MfHLe16nHZ5",
+            "name": "Potion of Poison {looks like any other potion, and may adapt to look like potions its stored with}",
+            "weight": "1"
+        },
+        "-LT3pkdF5MfHLe16nHZ6": {
+            "id": "-LT3pkdF5MfHLe16nHZ6",
+            "name": "Ring of Swimming",
+            "weight": "1"
+        },
+        "-LT3pkdF5MfHLe16nHZ7": {
+            "id": "-LT3pkdF5MfHLe16nHZ7",
+            "name": "Robe of Useful Items",
+            "weight": "1"
+        },
+        "-LT3pkdF5MfHLe16nHZ8": {
+            "id": "-LT3pkdF5MfHLe16nHZ8",
+            "name": "Rope of Climbing",
+            "weight": "1"
+        },
+        "-LT3pkdF5MfHLe16nHZ9": {
+            "id": "-LT3pkdF5MfHLe16nHZ9",
+            "name": "Saddle of Cavalier",
+            "weight": "1"
+        },
+        "-LT3pkdF5MfHLe16nHZA": {
+            "id": "-LT3pkdF5MfHLe16nHZA",
+            "name": "Wand of Magic Detection",
+            "weight": "1"
+        },
+        "-LT3pkdF5MfHLe16nHZB": {
+            "id": "-LT3pkdF5MfHLe16nHZB",
+            "name": "Wand of Secrets",
+            "weight": "1"
+        },
+        "-LT3pkdF5MfHLe16nHZe": {
+            "id": "-LT3pkdF5MfHLe16nHZe",
+            "name": "Potion of Health, Greater Red liquid that glows softly and glimmers when agitated",
+            "weight": "15"
+        },
+        "-LT3pkdF5MfHLe16nHZf": {
+            "id": "-LT3pkdF5MfHLe16nHZf",
+            "name": "Potion of Fire Breath An orange thin fluid that constantly seems to lick at the sides of the glass, flicking between yellow, orange and tints of red - the captured air turns to brackish smoke the moment the seal is broken.",
+            "weight": "7"
+        },
+        "-LT3pkdF5MfHLe16nHZg": {
+            "id": "-LT3pkdF5MfHLe16nHZg",
+            "name": "Potion of Resistance Milky opalescent liquid that has flickering colors matching the resistant energy type - Acid=yellowGreenish lumps; Cold = Pale blue crystals; Fire=wisps of red/orange and yellow; Force=cubes of clear gelatin; Lightning=Electric blue glowing strands; Necrotic=a foggy black and red corruption; Poison=;Psychic=pink and grey tendrils; Radiant=Gold and Yellow flashes; Thunder/Sonic=orange cylindrical puffs",
+            "weight": "7"
+        },
+        "-LT3pkdF5MfHLe16nHZh": {
+            "id": "-LT3pkdF5MfHLe16nHZh",
+            "name": "Ammunition, +1",
+            "weight": "5"
+        },
+        "-LT3pkdF5MfHLe16nHZi": {
+            "id": "-LT3pkdF5MfHLe16nHZi",
+            "name": "Potion of Animal Friendship Muddy liquid that when agitated brings up bits of .. fish scales, little pink tongues, claw, and hairs",
+            "weight": "5"
+        },
+        "-LT3pkdF5MfHLe16nHZj": {
+            "id": "-LT3pkdF5MfHLe16nHZj",
+            "name": "Potion of Hill Giant Strength Transparent liquid with a crescent sliver suspended within it",
+            "weight": "5"
+        },
+        "-LT3pkdF5MfHLe16nHZk": {
+            "id": "-LT3pkdF5MfHLe16nHZk",
+            "name": "Potion of Growth Speckles of tiny colored beads, that occasionally swell then diffuse into the liquid coloring it then the base liquid turns clear and another bead swells",
+            "weight": "5"
+        },
+        "-LT3pkdF5MfHLe16nHZl": {
+            "id": "-LT3pkdF5MfHLe16nHZl",
+            "name": "Potion of Water Breathing cloudy greenish blue with jelly like blobs that drift through it bubbling.",
+            "weight": "5"
+        },
+        "-LT3pkdF5MfHLe16nHZm": {
+            "id": "-LT3pkdF5MfHLe16nHZm",
+            "name": "Spell Scroll (2nd Level)",
+            "weight": "5"
+        },
+        "-LT3pkdF5MfHLe16nHZn": {
+            "id": "-LT3pkdF5MfHLe16nHZn",
+            "name": "Spell Scroll (3rd Level)",
+            "weight": "5"
+        },
+        "-LT3pkdF5MfHLe16nHZo": {
+            "id": "-LT3pkdF5MfHLe16nHZo",
+            "name": "Bag of Holding",
+            "weight": "3"
+        },
+        "-LT3pkdF5MfHLe16nHZp": {
+            "id": "-LT3pkdF5MfHLe16nHZp",
+            "name": "Keoghtom's Ointment",
+            "weight": "3"
+        },
+        "-LT3pkdF5MfHLe16nHZq": {
+            "id": "-LT3pkdF5MfHLe16nHZq",
+            "name": "Oil of Slipperiness",
+            "weight": "3"
+        },
+        "-LT3pkdF5MfHLe16nHZr": {
+            "id": "-LT3pkdF5MfHLe16nHZr",
+            "name": "Dust of Disappearance",
+            "weight": "2"
+        },
+        "-LT3pkdF5MfHLe16nHZs": {
+            "id": "-LT3pkdF5MfHLe16nHZs",
+            "name": "Dust of Dryness",
+            "weight": "2"
+        },
+        "-LT3pkdF5MfHLe16nHZt": {
+            "id": "-LT3pkdF5MfHLe16nHZt",
+            "name": "Dust of Sneezing and Choking",
+            "weight": "2"
+        },
+        "-LT3pkdF5MfHLe16nHZu": {
+            "id": "-LT3pkdF5MfHLe16nHZu",
+            "name": "Elemental Gem",
+            "weight": "2"
+        },
+        "-LT3pkdF5MfHLe16nHZv": {
+            "id": "-LT3pkdF5MfHLe16nHZv",
+            "name": "Philter of Love a Rose colored liquid which shimmers and almost always has either a #9 in some language or a heart inscribed on the bottle",
+            "weight": "2"
+        },
+        "-LT3pkdF5MfHLe16nHZw": {
+            "id": "-LT3pkdF5MfHLe16nHZw",
+            "name": "Alchemy Jug",
+            "weight": "1"
+        },
+        "-LT3pkdF5MfHLe16nHZx": {
+            "id": "-LT3pkdF5MfHLe16nHZx",
+            "name": "Cap of Water Breathing",
+            "weight": "1"
+        },
+        "-LT3pkdF5MfHLe16nHZy": {
+            "id": "-LT3pkdF5MfHLe16nHZy",
+            "name": "Cloak of the Manta Ray",
+            "weight": "1"
+        },
+        "-LT3pkdF5MfHLe16nHZz": {
+            "id": "-LT3pkdF5MfHLe16nHZz",
+            "name": "Drift Globe",
+            "weight": "1"
+        }
+    }
+}

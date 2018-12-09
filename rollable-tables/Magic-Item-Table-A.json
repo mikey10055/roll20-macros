@@ -1,0 +1,57 @@
+{
+    "name": "Magic-Item-Table-A",
+    "showplayers": false,
+    "id": "-LT3pkd9n4Ok66oj4uTm",
+    "items": {
+        "-LT3pkdBKURvxtZd6NoO": {
+            "id": "-LT3pkdBKURvxtZd6NoO",
+            "name": "Potion of Health Red liquid that glimmers and softly glows when agitated",
+            "weight": 31
+        },
+        "-LT3pkdBKURvxtZd6NoP": {
+            "id": "-LT3pkdBKURvxtZd6NoP",
+            "name": "Potion of Mana Blue potion that glows softly",
+            "weight": "30"
+        },
+        "-LT3pkdBKURvxtZd6NoQ": {
+            "id": "-LT3pkdBKURvxtZd6NoQ",
+            "name": "Spell Scroll (cantrip)",
+            "weight": "8"
+        },
+        "-LT3pkdBKURvxtZd6NoR": {
+            "id": "-LT3pkdBKURvxtZd6NoR",
+            "name": "Potion of Climbing The liquid has separate into layers; dirty brown, silver, and pocked/ashy gray",
+            "weight": "6"
+        },
+        "-LT3pkdBKURvxtZd6NoS": {
+            "id": "-LT3pkdBKURvxtZd6NoS",
+            "name": "Draught of Empowerment black sludge that reflects absolutely no light",
+            "weight": "1"
+        },
+        "-LT3pkdBKURvxtZd6NoT": {
+            "id": "-LT3pkdBKURvxtZd6NoT",
+            "name": "Spell Scroll (1st Level)",
+            "weight": "15"
+        },
+        "-LT3pkdBKURvxtZd6NoU": {
+            "id": "-LT3pkdBKURvxtZd6NoU",
+            "name": "Spell Scroll (2nd Level)",
+            "weight": "3"
+        },
+        "-LT3pkdBKURvxtZd6NoV": {
+            "id": "-LT3pkdBKURvxtZd6NoV",
+            "name": "Potion of Greater Health Red fluid that glows softly and glistens when agitated",
+            "weight": "3"
+        },
+        "-LT3pkdBKURvxtZd6NoW": {
+            "id": "-LT3pkdBKURvxtZd6NoW",
+            "name": "Bag of Holding",
+            "weight": "1"
+        },
+        "-LT3pkdBKURvxtZd6NoX": {
+            "id": "-LT3pkdBKURvxtZd6NoX",
+            "name": "Driftglobe",
+            "weight": "1"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "NPC-abilities-low",
+    "showplayers": true,
+    "id": "-LSvFZcRJAJtPXYNaBd5",
+    "items": {
+        "-LSvFdNy0DPn_v28csJy": {
+            "id": "-LSvFdNy0DPn_v28csJy",
+            "name": "str - feeble, scrawny"
+        },
+        "-LSvFig3Yj31XBGqAHFX": {
+            "id": "-LSvFig3Yj31XBGqAHFX",
+            "name": "dex - clumsy"
+        },
+        "-LSvFlIN5f6CxvTuWADm": {
+            "id": "-LSvFlIN5f6CxvTuWADm",
+            "name": "con - Sickly, pale"
+        },
+        "-LSvFog_GJ5_kETIDRNQ": {
+            "id": "-LSvFog_GJ5_kETIDRNQ",
+            "name": "int - dim-witted or slow"
+        },
+        "-LSvFtk23OU4lUNYsd-x": {
+            "id": "-LSvFtk23OU4lUNYsd-x",
+            "name": "wis - oblivious"
+        },
+        "-LSvFwQCqj8F6ahUVV2U": {
+            "id": "-LSvFwQCqj8F6ahUVV2U",
+            "name": "Cha - Dull or boring"
+        }
+    }
+}

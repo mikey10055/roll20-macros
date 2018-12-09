@@ -1,0 +1,262 @@
+{
+    "name": "Magic-Item-Table-I",
+    "showplayers": false,
+    "id": "-LT3pkfl31OVtMquCmcO",
+    "items": {
+        "-LT3pkfl31OVtMquCmcP": {
+            "id": "-LT3pkfl31OVtMquCmcP",
+            "name": "Defender",
+            "weight": "5"
+        },
+        "-LT3pkfl31OVtMquCmcQ": {
+            "id": "-LT3pkfl31OVtMquCmcQ",
+            "name": "Hammer of Thunderbolts",
+            "weight": "5"
+        },
+        "-LT3pkfl31OVtMquCmcR": {
+            "id": "-LT3pkfl31OVtMquCmcR",
+            "name": "Luck Blade",
+            "weight": "5"
+        },
+        "-LT3pkfl31OVtMquCmcS": {
+            "id": "-LT3pkfl31OVtMquCmcS",
+            "name": "Sword of Answering",
+            "weight": "5"
+        },
+        "-LT3pkfl31OVtMquCmcT": {
+            "id": "-LT3pkfl31OVtMquCmcT",
+            "name": "Holy Avenger",
+            "weight": "3"
+        },
+        "-LT3pkfl31OVtMquCmcU": {
+            "id": "-LT3pkfl31OVtMquCmcU",
+            "name": "Ring of Djinni Summoning",
+            "weight": "3"
+        },
+        "-LT3pkfl31OVtMquCmcV": {
+            "id": "-LT3pkfl31OVtMquCmcV",
+            "name": "Ring of Invisibility",
+            "weight": "3"
+        },
+        "-LT3pkfl31OVtMquCmcW": {
+            "id": "-LT3pkfl31OVtMquCmcW",
+            "name": "Ring of Spell Turning",
+            "weight": "3"
+        },
+        "-LT3pkfl31OVtMquCmcX": {
+            "id": "-LT3pkfl31OVtMquCmcX",
+            "name": "Rod of Lordly Might",
+            "weight": "3"
+        },
+        "-LT3pkfl31OVtMquCmcY": {
+            "id": "-LT3pkfl31OVtMquCmcY",
+            "name": "Staff of the Magi",
+            "weight": "3"
+        },
+        "-LT3pkfl31OVtMquCmcZ": {
+            "id": "-LT3pkfl31OVtMquCmcZ",
+            "name": "Vorpal Sword",
+            "weight": "3"
+        },
+        "-LT3pkfl31OVtMquCmca": {
+            "id": "-LT3pkfl31OVtMquCmca",
+            "name": "Armor +2, Breastplate",
+            "weight": "2"
+        },
+        "-LT3pkfl31OVtMquCmcb": {
+            "id": "-LT3pkfl31OVtMquCmcb",
+            "name": "Armor +3, Chain Mail",
+            "weight": "2"
+        },
+        "-LT3pkfl31OVtMquCmcc": {
+            "id": "-LT3pkfl31OVtMquCmcc",
+            "name": "Armor +3, Chain shirt",
+            "weight": "2"
+        },
+        "-LT3pkfl31OVtMquCmcd": {
+            "id": "-LT3pkfl31OVtMquCmcd",
+            "name": "Cloak of Invisibility",
+            "weight": "2"
+        },
+        "-LT3pkfl31OVtMquCmce": {
+            "id": "-LT3pkfl31OVtMquCmce",
+            "name": "Crystal ball (Legendary Version)",
+            "weight": "2"
+        },
+        "-LT3pkfl31OVtMquCmcf": {
+            "id": "-LT3pkfl31OVtMquCmcf",
+            "name": "Armor, +1 Half Plate",
+            "weight": "2"
+        },
+        "-LT3pkfl31OVtMquCmcg": {
+            "id": "-LT3pkfl31OVtMquCmcg",
+            "name": "Iron Flask",
+            "weight": "2"
+        },
+        "-LT3pkfl31OVtMquCmch": {
+            "id": "-LT3pkfl31OVtMquCmch",
+            "name": "Armor, +3 Leather",
+            "weight": "2"
+        },
+        "-LT3pkfl31OVtMquCmci": {
+            "id": "-LT3pkfl31OVtMquCmci",
+            "name": "Armor, +1 Plate",
+            "weight": "2"
+        },
+        "-LT3pkfl31OVtMquCmcj": {
+            "id": "-LT3pkfl31OVtMquCmcj",
+            "name": "Robe of the Archmagi",
+            "weight": "2"
+        },
+        "-LT3pkfl31OVtMquCmck": {
+            "id": "-LT3pkfl31OVtMquCmck",
+            "name": "Rod of Resurrection",
+            "weight": "2"
+        },
+        "-LT3pkfl31OVtMquCmcl": {
+            "id": "-LT3pkfl31OVtMquCmcl",
+            "name": "Armor +1, scale mail",
+            "weight": "2"
+        },
+        "-LT3pkfl31OVtMquCmcm": {
+            "id": "-LT3pkfl31OVtMquCmcm",
+            "name": "Scarab of Protection",
+            "weight": "2"
+        },
+        "-LT3pkfl31OVtMquCmcn": {
+            "id": "-LT3pkfl31OVtMquCmcn",
+            "name": "Armor +2, Splint",
+            "weight": "2"
+        },
+        "-LT3pkfl31OVtMquCmco": {
+            "id": "-LT3pkfl31OVtMquCmco",
+            "name": "Armor +2, Studded Leather",
+            "weight": "2"
+        },
+        "-LT3pkfl31OVtMquCmcp": {
+            "id": "-LT3pkfl31OVtMquCmcp",
+            "name": "Well of Many Worlds",
+            "weight": "2"
+        },
+        "-LT3pkfl31OVtMquCmcq": {
+            "id": "-LT3pkfl31OVtMquCmcq",
+            "name": "Magic Armor (roll DMG_MagicArmor table)",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmcr": {
+            "id": "-LT3pkfl31OVtMquCmcr",
+            "name": "Apparatus of Kwalish",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmcs": {
+            "id": "-LT3pkfl31OVtMquCmcs",
+            "name": "Armor of Invulnerability",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmct": {
+            "id": "-LT3pkfl31OVtMquCmct",
+            "name": "Belt of Storm Giant Strength",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmcu": {
+            "id": "-LT3pkfl31OVtMquCmcu",
+            "name": "Cubic Gate",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmcv": {
+            "id": "-LT3pkfl31OVtMquCmcv",
+            "name": "Deck of Many Things",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmcw": {
+            "id": "-LT3pkfl31OVtMquCmcw",
+            "name": "Efreeti Chain",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmcx": {
+            "id": "-LT3pkfl31OVtMquCmcx",
+            "name": "Armor of Resistance (half plate)",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmcy": {
+            "id": "-LT3pkfl31OVtMquCmcy",
+            "name": "Horn of Valhalla (iron)",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmcz": {
+            "id": "-LT3pkfl31OVtMquCmcz",
+            "name": "Instrument of the bards (Ollamh Harp)",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmd-": {
+            "id": "-LT3pkfl31OVtMquCmd-",
+            "name": "Ioun Stone (Greater Absorption) <%%91%%>Roll on the IounStone table<%%93%%>",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmd0": {
+            "id": "-LT3pkfl31OVtMquCmd0",
+            "name": "Ioun Stone (Mastery) <%%91%%>Roll on the IounStone table<%%93%%>",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmd1": {
+            "id": "-LT3pkfl31OVtMquCmd1",
+            "name": "Ioun Stone (Regeneration) <%%91%%>Roll on the IounStone table<%%93%%>",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmd2": {
+            "id": "-LT3pkfl31OVtMquCmd2",
+            "name": "Plate Armor of Etherealness",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmd3": {
+            "id": "-LT3pkfl31OVtMquCmd3",
+            "name": "Plate Armor of Resistance",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmd4": {
+            "id": "-LT3pkfl31OVtMquCmd4",
+            "name": "Ring of Elemental Command (Air)",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmd5": {
+            "id": "-LT3pkfl31OVtMquCmd5",
+            "name": "Ring of Elemental Command (Earth)",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmd6": {
+            "id": "-LT3pkfl31OVtMquCmd6",
+            "name": "Ring of Elemental Command (Fire)",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmd7": {
+            "id": "-LT3pkfl31OVtMquCmd7",
+            "name": "Ring of Elemental Command (Water)",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmd8": {
+            "id": "-LT3pkfl31OVtMquCmd8",
+            "name": "Sphere of Annihilation",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmd9": {
+            "id": "-LT3pkfl31OVtMquCmd9",
+            "name": "Talisman of Pure Good",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmdA": {
+            "id": "-LT3pkfl31OVtMquCmdA",
+            "name": "Talisman of the Sphere",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmdB": {
+            "id": "-LT3pkfl31OVtMquCmdB",
+            "name": "Talisman of Ultimate Evil",
+            "weight": "1"
+        },
+        "-LT3pkfl31OVtMquCmdC": {
+            "id": "-LT3pkfl31OVtMquCmdC",
+            "name": "Tome of the Stilled Tongue",
+            "weight": "1"
+        }
+    }
+}

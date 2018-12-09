@@ -1,0 +1,87 @@
+{
+    "name": "NPC-mannerisms",
+    "showplayers": true,
+    "id": "-LSvHCr54fgpbxy9ut8h",
+    "items": {
+        "-LSvHGCqAEkI0m-0mymA": {
+            "id": "-LSvHGCqAEkI0m-0mymA",
+            "name": "are prone to singing, whistling or humming"
+        },
+        "-LSvHLyYS7zH--btlkWt": {
+            "id": "-LSvHLyYS7zH--btlkWt",
+            "name": "speaks in a strange way eg rhyme"
+        },
+        "-LSvHT6kSaFdhQ02SJzh": {
+            "id": "-LSvHT6kSaFdhQ02SJzh",
+            "name": "has particularly low or high voice"
+        },
+        "-LSvHXieTzIzgBgKzb5E": {
+            "id": "-LSvHXieTzIzgBgKzb5E",
+            "name": "slurs words, has a lisp or stutters"
+        },
+        "-LSvHaKzHRyK-JlMUdgH": {
+            "id": "-LSvHaKzHRyK-JlMUdgH",
+            "name": "they enunciate overly clearly"
+        },
+        "-LSvHdByJLY_7QyQcC8N": {
+            "id": "-LSvHdByJLY_7QyQcC8N",
+            "name": "they speak loudly"
+        },
+        "-LSvHeX0CUSRoJ-X0LXq": {
+            "id": "-LSvHeX0CUSRoJ-X0LXq",
+            "name": "whispers"
+        },
+        "-LSvHfxYA0Dm7lq44BhL": {
+            "id": "-LSvHfxYA0Dm7lq44BhL",
+            "name": "uses flowery speech or long words"
+        },
+        "-LSvHjAyK88BfEwssYsR": {
+            "id": "-LSvHjAyK88BfEwssYsR",
+            "name": "frequently uses the wrong words"
+        },
+        "-LSvHm7xhe2T_sKWd4oR": {
+            "id": "-LSvHm7xhe2T_sKWd4oR",
+            "name": "uses colourful oaths or exclamations"
+        },
+        "-LSvHrPFWhtBpO1gY84-": {
+            "id": "-LSvHrPFWhtBpO1gY84-",
+            "name": "makes constant jokes or puns"
+        },
+        "-LSvHtRU0CkqZ0enfVp2": {
+            "id": "-LSvHtRU0CkqZ0enfVp2",
+            "name": "is prone to predictions of doom"
+        },
+        "-LSvHxSF0Kjjhz4fOrlz": {
+            "id": "-LSvHxSF0Kjjhz4fOrlz",
+            "name": "fidgets"
+        },
+        "-LSvHydgUm2OECWlshIe": {
+            "id": "-LSvHydgUm2OECWlshIe",
+            "name": "squints"
+        },
+        "-LSvHziTh7f6gOTFp5qD": {
+            "id": "-LSvHziTh7f6gOTFp5qD",
+            "name": "stares into the distance"
+        },
+        "-LSvI0FMcuSKjJkOpDsn": {
+            "id": "-LSvI0FMcuSKjJkOpDsn",
+            "name": "chews on something"
+        },
+        "-LSvI4UtbiWhsheDChQl": {
+            "id": "-LSvI4UtbiWhsheDChQl",
+            "name": "paces"
+        },
+        "-LSvI5nVoFdrbbrpEWwU": {
+            "id": "-LSvI5nVoFdrbbrpEWwU",
+            "name": "taps fingers"
+        },
+        "-LSvI763m8KxIQB1UhQz": {
+            "id": "-LSvI763m8KxIQB1UhQz",
+            "name": "bites fingernails"
+        },
+        "-LSvI99-De5mggOFrUn-": {
+            "id": "-LSvI99-De5mggOFrUn-",
+            "name": "twirls hair or tugs beard"
+        }
+    }
+}

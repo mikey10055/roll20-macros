@@ -1,0 +1,42 @@
+{
+    "name": "Magic-Item-Table-E",
+    "showplayers": false,
+    "id": "-LT3pkdycQUpBfhhwa8S",
+    "items": {
+        "-LT3pkdzYpTGNACHSIyk": {
+            "id": "-LT3pkdzYpTGNACHSIyk",
+            "name": "Spell Scroll (8th Level)",
+            "weight": "30"
+        },
+        "-LT3pkdzYpTGNACHSIyl": {
+            "id": "-LT3pkdzYpTGNACHSIyl",
+            "name": "Potion of Storm Giant Strength <%%91%%>Transparent Liquid with a crescent shaped sliver floating within it<%%93%%>",
+            "weight": "25"
+        },
+        "-LT3pkdzYpTGNACHSIym": {
+            "id": "-LT3pkdzYpTGNACHSIym",
+            "name": "Potion of Health, Supreme <%%91%%>A red Liquid that softly glows and shimmers when agitated<%%93%%>",
+            "weight": "1"
+        },
+        "-LT3pkdzYpTGNACHSIyn": {
+            "id": "-LT3pkdzYpTGNACHSIyn",
+            "name": "Spell Scroll (9th Level)",
+            "weight": "15"
+        },
+        "-LT3pkdzYpTGNACHSIyo": {
+            "id": "-LT3pkdzYpTGNACHSIyo",
+            "name": "Universal Solvent",
+            "weight": "8"
+        },
+        "-LT3pkdzYpTGNACHSIyp": {
+            "id": "-LT3pkdzYpTGNACHSIyp",
+            "name": "Arrow of Slaying",
+            "weight": "5"
+        },
+        "-LT3pkdzYpTGNACHSIyq": {
+            "id": "-LT3pkdzYpTGNACHSIyq",
+            "name": "Sovereign Glue",
+            "weight": "2"
+        }
+    }
+}

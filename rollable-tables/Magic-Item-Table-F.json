@@ -1,0 +1,297 @@
+{
+    "name": "Magic-Item-Table-F",
+    "showplayers": false,
+    "id": "-LT3pke1I2VayZtAmQ0l",
+    "items": {
+        "-LT3pke2MswMe1prIs2W": {
+            "id": "-LT3pke2MswMe1prIs2W",
+            "name": "Weapon, +1 (U)",
+            "weight": "15"
+        },
+        "-LT3pke2MswMe1prIs2X": {
+            "id": "-LT3pke2MswMe1prIs2X",
+            "name": "Shield, +1 (U)",
+            "weight": "3"
+        },
+        "-LT3pke2MswMe1prIs2Y": {
+            "id": "-LT3pke2MswMe1prIs2Y",
+            "name": "Sentinel Shield (U)",
+            "weight": "3"
+        },
+        "-LT3pke2MswMe1prIs2Z": {
+            "id": "-LT3pke2MswMe1prIs2Z",
+            "name": "Amulet of proof against detection and location (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2a": {
+            "id": "-LT3pke2MswMe1prIs2a",
+            "name": "Boots of striding and springing (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2b": {
+            "id": "-LT3pke2MswMe1prIs2b",
+            "name": "Bracers of archery (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2c": {
+            "id": "-LT3pke2MswMe1prIs2c",
+            "name": "Brooch of shielding (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2d": {
+            "id": "-LT3pke2MswMe1prIs2d",
+            "name": "Broom of flying (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2e": {
+            "id": "-LT3pke2MswMe1prIs2e",
+            "name": "Cloak of elvenkind (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2f": {
+            "id": "-LT3pke2MswMe1prIs2f",
+            "name": "Cloak of protection (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2g": {
+            "id": "-LT3pke2MswMe1prIs2g",
+            "name": "Gauntlets of ogre power (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2h": {
+            "id": "-LT3pke2MswMe1prIs2h",
+            "name": "Hat of disguise (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2i": {
+            "id": "-LT3pke2MswMe1prIs2i",
+            "name": "Javelin of lightning (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2j": {
+            "id": "-LT3pke2MswMe1prIs2j",
+            "name": "Pearl of power (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2k": {
+            "id": "-LT3pke2MswMe1prIs2k",
+            "name": "Rod of the pact keeper, +1 (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2l": {
+            "id": "-LT3pke2MswMe1prIs2l",
+            "name": "Slippers of spider climbing (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2m": {
+            "id": "-LT3pke2MswMe1prIs2m",
+            "name": "Staff of the adder (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2n": {
+            "id": "-LT3pke2MswMe1prIs2n",
+            "name": "Staff of the python (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2o": {
+            "id": "-LT3pke2MswMe1prIs2o",
+            "name": "Sword of vengeance (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2p": {
+            "id": "-LT3pke2MswMe1prIs2p",
+            "name": "Trident of fish command (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2q": {
+            "id": "-LT3pke2MswMe1prIs2q",
+            "name": "Wand of magic missiles (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2r": {
+            "id": "-LT3pke2MswMe1prIs2r",
+            "name": "Wand of the war mage, +1 (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2s": {
+            "id": "-LT3pke2MswMe1prIs2s",
+            "name": "Wand of web (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2t": {
+            "id": "-LT3pke2MswMe1prIs2t",
+            "name": "Weapon of warning (U)",
+            "weight": "2"
+        },
+        "-LT3pke2MswMe1prIs2u": {
+            "id": "-LT3pke2MswMe1prIs2u",
+            "name": "Adamantine armor (chain mail) (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs2v": {
+            "id": "-LT3pke2MswMe1prIs2v",
+            "name": "Adamantine armor (chain shirt) (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs2w": {
+            "id": "-LT3pke2MswMe1prIs2w",
+            "name": "Adamantine armor (scale mail) (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs2x": {
+            "id": "-LT3pke2MswMe1prIs2x",
+            "name": "Gray bag of tricks (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs2y": {
+            "id": "-LT3pke2MswMe1prIs2y",
+            "name": "Rust bag of tricks (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs2z": {
+            "id": "-LT3pke2MswMe1prIs2z",
+            "name": "Tan bag of tricks (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs3-": {
+            "id": "-LT3pke2MswMe1prIs3-",
+            "name": "Boots of the winterlands (u)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs30": {
+            "id": "-LT3pke2MswMe1prIs30",
+            "name": "Circlet of blasting (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs31": {
+            "id": "-LT3pke2MswMe1prIs31",
+            "name": "Deck of illusions (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs32": {
+            "id": "-LT3pke2MswMe1prIs32",
+            "name": "Eversmoking bottle (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs33": {
+            "id": "-LT3pke2MswMe1prIs33",
+            "name": "Eyes of charming (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs34": {
+            "id": "-LT3pke2MswMe1prIs34",
+            "name": "Eyes of the eagle (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs35": {
+            "id": "-LT3pke2MswMe1prIs35",
+            "name": "Figurine of wondrous power, silver raven (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs36": {
+            "id": "-LT3pke2MswMe1prIs36",
+            "name": "Gem of brightness (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs37": {
+            "id": "-LT3pke2MswMe1prIs37",
+            "name": "Gloves of missile snaring (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs38": {
+            "id": "-LT3pke2MswMe1prIs38",
+            "name": "Gloves of thievery (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs39": {
+            "id": "-LT3pke2MswMe1prIs39",
+            "name": "Headband of intellect (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs3A": {
+            "id": "-LT3pke2MswMe1prIs3A",
+            "name": "Helm of telepathy (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs3B": {
+            "id": "-LT3pke2MswMe1prIs3B",
+            "name": "Instrument of the bards (doss lute) (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs3C": {
+            "id": "-LT3pke2MswMe1prIs3C",
+            "name": "Instrument of the bards (Fochlucan bandore) (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs3D": {
+            "id": "-LT3pke2MswMe1prIs3D",
+            "name": "Instrument of the bards (Mac-Fuimidh cittern) (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs3E": {
+            "id": "-LT3pke2MswMe1prIs3E",
+            "name": "Medallion of thoughts (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs3F": {
+            "id": "-LT3pke2MswMe1prIs3F",
+            "name": "Necklace of adaptation (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs3G": {
+            "id": "-LT3pke2MswMe1prIs3G",
+            "name": "Periapt of wound closure (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs3H": {
+            "id": "-LT3pke2MswMe1prIs3H",
+            "name": "Pipes of haunting (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs3I": {
+            "id": "-LT3pke2MswMe1prIs3I",
+            "name": "Pipes of the sewers (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs3J": {
+            "id": "-LT3pke2MswMe1prIs3J",
+            "name": "Ring of jumping (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs3K": {
+            "id": "-LT3pke2MswMe1prIs3K",
+            "name": "Ring of mind shielding (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs3L": {
+            "id": "-LT3pke2MswMe1prIs3L",
+            "name": "Ring of warmth (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs3M": {
+            "id": "-LT3pke2MswMe1prIs3M",
+            "name": "Ring of water walking (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs3N": {
+            "id": "-LT3pke2MswMe1prIs3N",
+            "name": "Quiver of Ehlonna (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs3O": {
+            "id": "-LT3pke2MswMe1prIs3O",
+            "name": "Stone of good luck (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs3P": {
+            "id": "-LT3pke2MswMe1prIs3P",
+            "name": "Wind fan (U)",
+            "weight": "1"
+        },
+        "-LT3pke2MswMe1prIs3Q": {
+            "id": "-LT3pke2MswMe1prIs3Q",
+            "name": "Winged boots (U)",
+            "weight": "1"
+        }
+    }
+}
